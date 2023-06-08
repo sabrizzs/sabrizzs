@@ -14,9 +14,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/sabrizzs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sabrizzs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<p align="left">
+<a href="https://github.com/sabrizzs">  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabrizzs&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
