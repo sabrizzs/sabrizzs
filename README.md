@@ -3,8 +3,8 @@
 ### 🌱 Languages and Frameworks I know and study
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Python-ff2f8e?style=flat&logo=python&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/C-ba1e68?style=flat&logo=c&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Python-ba1e68?style=flat&logo=python&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/C-ff2f8e?style=flat&logo=c&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/C%2B%2B-f3872f?style=flat&logo=c%2B%2B&logoColor=white" alt="">  
     <img src="https://img.shields.io/badge/HTML5-66df48?style=flat&logo=html5&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Java-6a77dd?style=flat&logo=openjdk&logoColor=white" alt="">
