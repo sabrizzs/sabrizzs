@@ -8,7 +8,7 @@ a Computer Science student at University of Sao Paulo
 
 <p align="left">
     <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python" alt="">
-    <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&" alt="">
+    <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c" alt="">
     <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="">  
     <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5" alt="">
     <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk" alt="">
