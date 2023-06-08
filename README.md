@@ -7,8 +7,8 @@ a Computer Science student at University of Sao Paulo
 ### 🔭 I've worked with 
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Python-8B0080?style=for-the-badge&logo=python&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/C-8B0080?style=for-the-badge&logo=c&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Python-8B0080?style=flat&logo=python&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/C-8B0080?style=flat&logo=c&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/C%2B%2B-8B0080?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="">  
     <img src="https://img.shields.io/badge/HTML5-8B0080?style=for-the-badge&logo=html5&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Java-8B0080?style=for-the-badge&logo=openjdk&logoColor=white" alt="">
