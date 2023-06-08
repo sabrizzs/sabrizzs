@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://github.com/sabrizzs">  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabrizzs&layout=compact&langs_count=8&theme=algolia"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="arunsridher" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrizzs&theme=radical" alt="sabrizzs" />
 </a>
 </p>
 
