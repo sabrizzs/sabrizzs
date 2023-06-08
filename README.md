@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Python-B7178C?logo=python&logoColor=white&style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/Python-B7178C?logo=python&logoColor=white&style=flat-square" alt="">
     
 </p>
 
