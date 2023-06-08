@@ -3,7 +3,7 @@
 #### 🔭 I've worked with 
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Python-FFFFFF?logo=python&logoColor=3776AB&style=flat" alt="">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat" alt="">
     <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" alt="">
     <img src="https://img.shields.io/badge/Java-F7DF1E?logo=java&logoColor=white&style=flat" alt="">
