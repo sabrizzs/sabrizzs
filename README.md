@@ -1,6 +1,6 @@
 ## Hi, I'm Sabrina Araújo 👋
 
-### 🌱 Languages and Frameworks I know and Study
+### 🌱 Languages and Frameworks I know and study
 
 <p align="left">
     <img src="https://img.shields.io/badge/Python-ff2f8e?style=flat&logo=python&logoColor=white" alt="">
