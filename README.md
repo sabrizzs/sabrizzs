@@ -7,11 +7,11 @@ a Computer Science student at University of Sao Paulo
 ### 🔭 I've worked with 
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python" alt="">
-    <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=483D8B" alt="">
-    <img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="">  
-    <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5" alt="">
-    <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=FF5733" alt="">
+    <img src="https://img.shields.io/badge/Python-8B0080?style=for-the-badge&logo=python&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/C-8B0080?style=for-the-badge&logo=c&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/C%2B%2B-8B0080?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="">  
+    <img src="https://img.shields.io/badge/HTML5-8B0080?style=for-the-badge&logo=html5&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Java-8B0080?style=for-the-badge&logo=openjdk&logoColor=white" alt="">
 
     
 </p>
@@ -19,7 +19,7 @@ a Computer Science student at University of Sao Paulo
 ### 🌱 I’m currently learning
 
 <p align="left">
-    <img src="https://img.shields.io/badge/MySQL-8B008B?style=for-the-badge&logo=mysql&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/MySQL-8B0080?style=for-the-badge&logo=mysql&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Docker-800080?style=for-the-badge&logo=docker&logoColor=white" alt="">
 </p>
 
