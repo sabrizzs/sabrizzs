@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/HTML5-66df48?style=flat&logo=html5&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Java-6a77dd?style=flat&logo=openjdk&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/MySQL-9803ce?style=flat&logo=mysql&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/Docker-ee82ee?style=flat&logo=docker&logoColor=white" alt=""> 
+    <img src="https://img.shields.io/badge/Docker-8e008e?style=flat&logo=docker&logoColor=white" alt=""> 
 </p>
 
 <!--
