@@ -1,6 +1,7 @@
 ## Hi, I'm Sabrina Araújo 👋
 
 🎓 I'm currently studying Computer Science at the University of São Paulo.
+
 ✍️ I'm on track for learning more about Artificial Intelligence, Neural Network and Computer Vision.
 
 ### 🌱 Languages and Frameworks I know and study
