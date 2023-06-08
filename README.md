@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Sabrina Araújo, 
+
+a Computer Science student at University of Sao Paulo
+
 ### 🔭 I've worked with 
 
 <p align="left">
