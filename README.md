@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+#### 🔭 I've worked with 
 
 <p align="left">
     <img src="https://img.shields.io/badge/Python-B7178C?logo=python&logoColor=white&style=flat-square" alt="">
     <img src="https://img.shields.io/badge/C++-B7178C?logo=python&logoColor=white&style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/HTML-B7178C?logo=python&logoColor=white&style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/HTML-B7178C?logo=python&logoColor=white&style=flat-square" alt="">
     
 </p>
 
