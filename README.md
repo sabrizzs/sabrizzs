@@ -1,5 +1,7 @@
 ## Hi, I'm Sabrina Araújo 👋
 
+🎓 &nbsp;I'm currently studying Computer Science at the University of São Paulo.
+
 ### 🌱 Languages and Frameworks I know and study
 
 <p align="left">
