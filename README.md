@@ -1,6 +1,6 @@
-## Hi, 'm Sabrina Araújo 👋
+## Hi, I'm Sabrina Araújo 👋
 
-### 🔭 I've worked with 
+### 🌱 Languages and Frameworks I know and Study
 
 <p align="left">
     <img src="https://img.shields.io/badge/Python-8B0080?style=flat&logo=python&logoColor=white" alt="">
@@ -8,15 +8,8 @@
     <img src="https://img.shields.io/badge/C%2B%2B-8B0080?style=flat&logo=c%2B%2B&logoColor=white" alt="">  
     <img src="https://img.shields.io/badge/HTML5-8B0080?style=flat&logo=html5&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Java-8B0080?style=flat&logo=openjdk&logoColor=white" alt="">
-
-    
-</p>
-
-### 🌱 I’m currently learning
-
-<p align="left">
     <img src="https://img.shields.io/badge/MySQL-8B0080?style=flat&logo=mysql&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/Docker-800080?style=flat&logo=docker&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Docker-800080?style=flat&logo=docker&logoColor=white" alt=""> 
 </p>
 
 <!--
